@@ -1,0 +1,9 @@
+Introductory paragraph(s) with description of project, what it does, and what inspired it.
+
+<h3>How it works:</h3>
+
+[image(s)/video, can also be placed in introductory paragraphs or before "How it works"]
+
+The backend is built with LANGUAGE, LIBRARIES. The frontend uses the THEME-NAME theme by <a href="#"></a>, an image by <a href="#"></a>, and content from CONTENT-CREDIT. The example above uses <a href="#"></a>.
+
+<a class="button" href="https://github.com/codesue/PROJECT-NAME">View it on github</a> <a class="button" href="https://codesue-PROJECT-NAME.herokuapp.com/">Try it on Heroku</a>
